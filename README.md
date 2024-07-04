@@ -1,6 +1,16 @@
 <div align="center">
  <h2 align="left">Hi 👋! My name is Md Ruhul Kuddus</h2>
 
+## About Me
+
+Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer (SQAE) committed to ensuring software reliability and quality. With extensive experience in both manual and automated testing, along with a knack for designing effective test cases, I contribute to the implementation of seamless continuous integration.
+
+- 🔬 Continuously exploring new testing methodologies to stay at the forefront of industry best practices.
+- 🌐 Active contributor to open-source projects, fostering collaboration and innovation in the software development community.
+- 🚀 Enthusiastic about automation and optimizing software development workflows through Continuous Integration/Continuous Deployment (CI/CD) processes.
+- 💡 On a mission to enhance software quality and improve user experiences.
+
+
 <!-- You can use + symbol or %20 to give a space between words -->
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
  <h3 align="center">You can Hire me As</h3> 
