@@ -17,12 +17,12 @@
   <a title = "mdrhlkdus@gmail.com"  href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
   &nbsp;
 <!-- Use your linkedin account url at href -->
-<a title = "LinkedIn" href="https://www.linkedin.com/in/mdRuhulKuddus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdRuhulKuddus/" height="30" width="40" /></a>
-<a title = "Facebook" href="https://www.facebook.com/MdRuhulKuddus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdRuhulKuddus" height="30" width="40" /></a>
-<a title = "Twitter" href="https://twitter.com/drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6676421/imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/md-yeamin" height="40" width="40" /></a> 
-<a href="https://medium.com/@drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderyeamin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raselofficialyoutube" height="30" width="40" /></a>
+<a title = "LinkedIn" href="https://www.linkedin.com/in/mdRuhulKuddus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/C/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdRuhulKuddus/" height="30" width="40" /></a>
+<a title = "Facebook" href="https://www.facebook.com/MdRuhulKuddus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/MdRuhulKuddus" height="30" width="40" /></a>
+<a title = "Twitter" href="https://twitter.com/drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6676421/imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/md-yeamin" height="40" width="40" /></a> 
+<a href="https://medium.com/@drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderyeamin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raselofficialyoutube" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
