@@ -128,7 +128,7 @@
 <h1 align="center"></h1>  
 
 
-&nbsp;**This month I spent my time on**
+&nbsp;**This week I spent my time on**
 
 <p align="center">
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=RepoRuhul&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
