@@ -21,8 +21,8 @@
 <a title = "Facebook" href="https://www.facebook.com/MdRuhulKuddus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/MdRuhulKuddus" height="30" width="40" /></a>
 <a title = "Twitter" href="https://twitter.com/drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.youtube.com/channel/UCkRGC4FSVPv94laLWs6RPfw" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6676421/Ruhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/MdRuhulKuddus" height="40" width="40" /></a> 
-<a href="https://medium.com/@drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderyeamin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raselofficialyoutube" height="30" width="40" /></a>
+<a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderMdRuhulKuddus" height="30" width="40" /></a>
+<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdruhulkuddusofficialyoutube" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
