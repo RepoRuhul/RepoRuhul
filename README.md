@@ -1,6 +1,13 @@
 <div align="center">
  <h2 align="left">Hi 👋! My name is Md Ruhul Kuddus</h2>
 
+ <h3 align="center">You can Hire me As</h3> 
+
+<h2 align="center">
+<a href="https://MdRuhulKuddus.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&color=98acf2&width=500&height=50"></a>
+</h2>
+</div>
+
 ## About Me
 
 Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer (SQAE) committed to ensuring software reliability and quality. With extensive experience in both manual and automated testing, along with a knack for designing effective test cases, I contribute to the implementation of seamless continuous integration.
@@ -45,27 +52,8 @@ Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer 
 
 <!-- You can use + symbol or %20 to give a space between words -->
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
- <h3 align="center">You can Hire me As</h3> 
 
-<h2 align="center">
-<a href="https://MdRuhulKuddus.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&color=98acf2&width=500&height=50"></a>
-</h2>
-</div>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a title = "347-653-7214" href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Call" height="40" width="40" /></a>
-  &nbsp;
-  <a title = "mdrhlkdus@gmail.com"  href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
-  &nbsp;
-<!-- Use your linkedin account url at href -->
-<a title = "LinkedIn" href="https://www.linkedin.com/in/mdRuhulKuddus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/C/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdRuhulKuddus/" height="30" width="40" /></a>
-<a title = "Facebook" href="https://www.facebook.com/MdRuhulKuddus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/MdRuhulKuddus" height="30" width="40" /></a>
-<a title = "Twitter" href="https://twitter.com/drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.youtube.com/channel/UCkRGC4FSVPv94laLWs6RPfw" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6676421/Ruhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/MdRuhulKuddus" height="40" width="40" /></a> 
-<a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderMdRuhulKuddus" height="30" width="40" /></a>
-<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdruhulkuddusofficialyoutube" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Languages and Tools</h3>
 </br>
@@ -168,6 +156,22 @@ Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer 
   `Personal Website` -> <a href="#" target="_blank">`Md Ruhul Kuddus`</a>
 <div align="center">
 <h1 align="center"></h1>  
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a title = "347-653-7214" href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Call" height="40" width="40" /></a>
+  &nbsp;
+  <a title = "mdrhlkdus@gmail.com"  href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+  &nbsp;
+<!-- Use your linkedin account url at href -->
+<a title = "LinkedIn" href="https://www.linkedin.com/in/mdRuhulKuddus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/C/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdRuhulKuddus/" height="30" width="40" /></a>
+<a title = "Facebook" href="https://www.facebook.com/MdRuhulKuddus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/MdRuhulKuddus" height="30" width="40" /></a>
+<a title = "Twitter" href="https://twitter.com/drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.youtube.com/channel/UCkRGC4FSVPv94laLWs6RPfw" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6676421/Ruhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/MdRuhulKuddus" height="40" width="40" /></a> 
+<a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderMdRuhulKuddus" height="30" width="40" /></a>
+<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/RepoRuhul/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdruhulkuddusofficialyoutube" height="30" width="40" /></a>
+</p>
+
 
 
 &nbsp;**This week I spent my time on**
