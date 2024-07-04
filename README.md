@@ -8,48 +8,6 @@
 </h2>
 </div>
 
-## About Me
-
-Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer (SQAE) committed to ensuring software reliability and quality. With extensive experience in both manual and automated testing, along with a knack for designing effective test cases, I contribute to the implementation of seamless continuous integration.
-
-- 🔬 Continuously exploring new testing methodologies to stay at the forefront of industry best practices.
-- 🌐 Active contributor to open-source projects, fostering collaboration and innovation in the software development community.
-- 🚀 Enthusiastic about automation and optimizing software development workflows through Continuous Integration/Continuous Deployment (CI/CD) processes.
-- 💡 On a mission to enhance software quality and improve user experiences.
-
-- ### Testing
-- Proficient in manual and automated testing.
-- Adept at test case design, test planning, and conducting database and regression testing.
-
-### Tools
-- JIRA, TestRail, Trello, QA Touch.
-
-### Automation Tools
-- Selenium, Appium, JUnit, TestNG.
-
-### CI/CD
-- Jenkins, Travis CI, GitLab CI.
-
-### Version Control
-- Git for effective version control.
-
-### Programming Languages
-- JAVA, Python, JavaScript.
-
-### Framework
-- TDD, BDD, DDD.
-
-### Bug Tracking Tools
-- Jira for efficient bug tracking and management.
-
-### API Testing
-- Postman, Restassure for API testing.
-
-### Test Management Tools
-- TestRail, TestLink for efficient test case and test management.
-
-
-
 <!-- You can use + symbol or %20 to give a space between words -->
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
 
@@ -145,6 +103,50 @@ Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer 
 <a title = "VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 &nbsp;
 </p> 
+
+
+## About Me
+
+Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer (SQAE) committed to ensuring software reliability and quality. With extensive experience in both manual and automated testing, along with a knack for designing effective test cases, I contribute to the implementation of seamless continuous integration.
+
+- 🔬 Continuously exploring new testing methodologies to stay at the forefront of industry best practices.
+- 🌐 Active contributor to open-source projects, fostering collaboration and innovation in the software development community.
+- 🚀 Enthusiastic about automation and optimizing software development workflows through Continuous Integration/Continuous Deployment (CI/CD) processes.
+- 💡 On a mission to enhance software quality and improve user experiences.
+
+- ### Testing
+- Proficient in manual and automated testing.
+- Adept at test case design, test planning, and conducting database and regression testing.
+
+### Tools
+- JIRA, TestRail, Trello, QA Touch.
+
+### Automation Tools
+- Selenium, Appium, JUnit, TestNG.
+
+### CI/CD
+- Jenkins, Travis CI, GitLab CI.
+
+### Version Control
+- Git for effective version control.
+
+### Programming Languages
+- JAVA, Python, JavaScript.
+
+### Framework
+- TDD, BDD, DDD.
+
+### Bug Tracking Tools
+- Jira for efficient bug tracking and management.
+
+### API Testing
+- Postman, Restassure for API testing.
+
+### Test Management Tools
+- TestRail, TestLink for efficient test case and test management.
+
+
+
 
 
  
