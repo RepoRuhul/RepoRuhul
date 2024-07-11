@@ -122,7 +122,7 @@ Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer 
 - JIRA, TestRail, Trello, QA Touch.
 
 ### Automation Tools
-- Selenium, Appium, JUnit, TestNG,Cucumber.
+- Selenium, Appium, JUnit, TestNG, Cucumber.
 
 ### CI/CD
 - Jenkins, Travis CI, GitLab CI.
