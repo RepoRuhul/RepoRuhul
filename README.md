@@ -122,7 +122,7 @@ Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer 
 - JIRA, TestRail, Trello, QA Touch.
 
 ### Automation Tools
-- Selenium, Appium, JUnit, TestNG.
+- Selenium, Appium, JUnit, TestNG,Cucumber.
 
 ### CI/CD
 - Jenkins, Travis CI, GitLab CI.
@@ -131,13 +131,13 @@ Greetings! I'm Md Ruhul Kuddus, a dedicated Software Quality Assurance Engineer 
 - Git for effective version control.
 
 ### Programming Languages
-- JAVA, Python, JavaScript.
+- JAVA, Python, JavaScript, Gherkin.
 
 ### Framework
 - TDD, BDD, DDD.
 
 ### Bug Tracking Tools
-- Jira for efficient bug tracking and management.
+- Jira and Bugzilla for efficient bug tracking and management.
 
 ### API Testing
 - Postman, Restassure for API testing.
